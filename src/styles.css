@@ -16,7 +16,13 @@ button {
   width: 100px;
   padding: 4px;
 }
-
+.container {
+  border: 1px solid rgb(161, 158, 158);
+  border-radius: 4px;
+  padding: 10px 20px 10px;
+  margin: 30px 50px 50px;
+  width: 60%;
+}
 .weather {
   border: 1px solid gray;
   border-radius: 4px;
